@@ -60,7 +60,7 @@ Note que apenas a segunda abreviação de "para" (p/) não foi reconhecida devid
 
 - Veja o resultado na imagem abaixo:
 
-![Face reconhecida na Imagem](https://github.com/MadsonFerrari/Projeto_Reconhecimento_Facial/blob/main/Screens/Detected%20Face.PNG)
+![Face reconhecida na Imagem](https://github.com/MadsonFerrari/Projeto_Reconhecimento_Facial/blob/main/output/Detected%20Face.PNG)
 
 
 ## Considerações finais
