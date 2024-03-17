@@ -11,7 +11,7 @@ Olá pessoal, eu sou Madson Ferrari, Engenheiro eletricista, pós graduado em Me
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MadsonFerrari)
 
-# Reconhecimento de Testo e Faces com o Vision Studio
+# Reconhecimento de Texto e Faces com o Vision Studio
 
 
 - A primeira etapa foi assitir ao módulo de Visão Computacional do curso da DIO dentro do bootcamp AI-900
@@ -29,7 +29,7 @@ Selecionei **+Create a resource**
     - **Box de termos:** *Selecionada*
 
 - Selecione **Review + create** e então selecione **Create**.
-Espere a criação do espaço de trabalho (levou alguns minutos) 
+Espere a criação do espaço de trabalho (levou menos de 1 minuto) 
 
 Depois de criado acessar o [portal do Vision] (https://portal.vision.cognitive.azure.com/gallery/featured)
 
