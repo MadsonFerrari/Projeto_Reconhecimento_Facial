@@ -67,18 +67,6 @@ Note que apenas a segunda abreviação de "para" (p/) não foi reconhecida devid
 
 ### As ferramentas do Azure demonstraram que estão preparadas para o uso em diversos projetos e que conseguem um acerto muito alto tanto na detecção de faces como de texto. Isto mostra que os desenvolvedores possuem recursos inimagináveis para desenvolver aplicações de altíssimo nível e precisão.
 
-- Selecionar o recurso **detect face in an image**
 
-- Marcar a caixa que diz que este recurso vai usar **visionStudioTest** do Azure
-
-- Usei uma imagem minha para testar a detecção de face
-![Imagem de teste](https://github.com/MadsonFerrari/Projeto_Reconhecimento_Facial/blob/main/inputs/Visita%20Senai.png)
-
-
-- Depois disto o software faz tudo sozinho e com perfeição
-
-- Veja o resultado na imagem abaixo:
-
-![Face reconhecida na Imagem](https://github.com/MadsonFerrari/Projeto_Reconhecimento_Facial/blob/main/Screens/Detected%20Face.PNG)
 
 
