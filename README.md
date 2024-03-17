@@ -11,9 +11,8 @@ Olá pessoal, eu sou Madson Ferrari, Engenheiro eletricista, pós graduado em Me
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MadsonFerrari)
 
-# Reconhecimento de Faces Imagens e de texto
+# Reconhecimento de Testo e Faces com o Vision Studio
 
-## Projeto de Reconhecimento de Faces usando o Azure Vision Cognitive (PT)
 
 - A primeira etapa foi assitir ao módulo de Visão Computacional do curso da DIO dentro do bootcamp AI-900
 
@@ -34,6 +33,39 @@ Espere a criação do espaço de trabalho (levou alguns minutos)
 
 Depois de criado acessar o [portal do Vision] (https://portal.vision.cognitive.azure.com/gallery/featured)
 
+## Reconhecimento de caracteres (OCR) com Azure Vision Studio
+
+Neste caso já estava criado o recurso, basta escolher no Vision Studio e escolher a segunda coluna **Optical character recognition** 
+
+Para teste de OCR esolhi um texto manuscrito que é bem mais difícil de ser reconhecido do que um texto com fontes padronizadas.
+
+![Imagem](https://github.com/MadsonFerrari/Projeto_Reconhecimento_Facial/blob/main/inputs/Exemplo%20de%20texto.jpeg)
+
+Basta carregar o texto na opção **Browse for a file** e pronto. O Vision Studio retorna o texto com alta detecção. Neste caso com 98% de acerto.
+
+Note que apenas a segunda abreviação de "para" (p/) não foi reconhecida devido à barra ter ficado muito pequena sendo confundida com a letra "i" minúscula
+
+## Reconhecimento de Faces com Azure Vision Studio
+
+- Neste caso, como já estava criado o recurso, basta voltar ao vision Studio, na coluna Featured
+
+- Selecionar o recurso **detect face in an image**
+
+- Marcar a caixa que diz que este recurso vai usar **visionStudioTest** do Azure
+
+- Usei uma imagem minha para testar a detecção de face
+![Imagem de teste](https://github.com/MadsonFerrari/Projeto_Reconhecimento_Facial/blob/main/inputs/Visita%20Senai.png)
+
+- Depois disto o software faz tudo sozinho e com perfeição
+
+- Veja o resultado na imagem abaixo:
+
+![Face reconhecida na Imagem](https://github.com/MadsonFerrari/Projeto_Reconhecimento_Facial/blob/main/Screens/Detected%20Face.PNG)
+
+
+## Considerações finais
+
+### As ferramentas do Azure demonstraram que estão preparadas para o uso em diversos projetos e que conseguem um acerto muito alto tanto na detecção de faces como de texto. Isto mostra que os desenvolvedores possuem recursos inimagináveis para desenvolver aplicações de altíssimo nível e precisão.
 
 - Selecionar o recurso **detect face in an image**
 
